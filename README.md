@@ -16,11 +16,3 @@ A partially complete [Brainfuck](http://www.muppetlabs.com/~breadbox/bf/) interp
 4. Run using
 
 		dogescript brainfoge.djs | node
-
-
-## Current features
-
-- [x] Support `>` and `<`
-- [x] Support `+` and `-`
-- [x] Support `.` and `,`
-- [ ] Support `[` and `]`
