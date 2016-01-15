@@ -92,7 +92,7 @@ shh input a byte and store it in the byte at the pointer
 shh no return statement in language so cannot return early
 such input_byte
     rly input_data.length bigger 0
-        array[pointer_index] = input_data[0]
+        array[pointer_index] = input_data.charCodeAt(0)
         shh pop off the first element of the input
         input_data = input_data.slice(1)
     but
