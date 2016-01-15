@@ -81,7 +81,11 @@ wow
 
 shh output the byte at the pointer
 such output_byte
-    plz console.loge with array[pointer_index]
+    shh get the value at the pointer
+    very value_at_pointer is array[pointer_index]
+    shh convert the integer to a character
+    very output is String.fromCharCode(value_at_pointer)
+    plz process.stdout.write with output
 wow
 
 shh input a byte and store it in the byte at the pointer
