@@ -1,6 +1,6 @@
 # Brainfoge
 
-A technically complete [Brainfuck](http://www.muppetlabs.com/~breadbox/bf/) interpreter written in [Dogescript](https://dogescript.com)
+A [Brainfuck](http://www.muppetlabs.com/~breadbox/bf/) interpreter written in [Dogescript](https://dogescript.com)
 
 
 ## Instructions
