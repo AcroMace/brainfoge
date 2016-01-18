@@ -5,7 +5,7 @@ Taken from the [Brainfuck Wikipedia page](https://en.wikipedia.org/wiki/Brainfuc
 
 ## Instructions
 
-1. Give yourself the permission to run the test
+1. Give yourself permission to run the test
 
 		chmod u+x run.sh
 
